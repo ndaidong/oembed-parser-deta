@@ -1,0 +1,5 @@
+{
+  "name": "oembed-parse-deta",
+  "description": "oEmbed service based on oembed-parser",
+  "runtime": "nodejs14.x"
+}
