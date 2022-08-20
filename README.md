@@ -1,6 +1,6 @@
 # oembed-parser-deta
 
-Demonstrate how to deploy oembed-parser service to Deta cloud
+Demonstrate how to deploy [oembed-parser](https://github.com/ndaidong/oembed-parser) service to Deta cloud
 
 [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/ndaidong/oembed-parser-deta)
 
